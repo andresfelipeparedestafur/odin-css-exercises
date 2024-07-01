@@ -5,4 +5,5 @@ Se realizan los ejercicios propuestos en la sección de Introducción a CSS.
     * 01 Métodos para agregar .css a .html
     * 02 Selectores de clase y id
     * 03 Grupo Selectores
-    * 04 
+    * 04 Selectores encadenados
+    * 05 Combinado descendiente
