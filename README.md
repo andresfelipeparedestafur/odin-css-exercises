@@ -7,3 +7,4 @@ Se realizan los ejercicios propuestos en la sección de Introducción a CSS.
     * 03 Grupo Selectores
     * 04 Selectores encadenados
     * 05 Combinado descendiente
+    * 06 Arreglos en cascada
